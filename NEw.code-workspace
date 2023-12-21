@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../SayaPemula"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Newbie"
+  }
+}
