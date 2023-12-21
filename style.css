@@ -1,7 +1,8 @@
 @charset "utf-8";
 /* CSS Document*/
 body {
-  background-color: whitesmoke;
+  background-image: url(BK.jpeg);
+  background-size: contain;
   margin: 0px;
   padding: 0px;
 }
@@ -63,7 +64,7 @@ nav ul li a:hover {
 .text-container p:nth-child(1) {
   font-family: dancing script;
   font-weight: bold;
-  color: #6d6d6d;
+  color: white;
   font-size: 25px;
 }
 
@@ -71,21 +72,21 @@ nav ul li a:hover {
   font-family: dancing script;
   font-weight: bold;
   letter-spacing: 2px;
-  color: #1a1a1a;
+  color: white;
   font-size: 70px;
 }
 
 .text-container p:nth-child(3) {
   font-family: dancing script;
   font-weight: bold;
-  color: #403e3e;
+  color: gold;
   font-size: 30px;
   line-height: 30px;
 }
 
 .text-container p:nth-child(4) {
   font-family: Philosopher;
-  color: #403e3e;
+  color: white;
   font-size: 16px;
   margin-top: 10px;
   line-height: 30px;
